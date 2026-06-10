@@ -1,4 +1,4 @@
-# 
+# VIP Cline scripts. Con arquitectura escalable y entrenamiento de modelos personalizados — optimizado para el máximo rendimiento y eficiencia.
 
 
 
